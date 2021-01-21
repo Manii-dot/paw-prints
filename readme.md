@@ -15,7 +15,7 @@ This app is a platform where users can create posts about their lost pets, and o
   - [Screenshot](#screenshot)
 
 ### Installation
-No installation needed, the app is deployed at: siteURL COMING SOON!
+No installation needed, the app is deployed at: https://mypawprints.herokuapp.com/
 
 ### Usage
 Users can sign up to the app, and then create posts by typing in information about the pet and uploading an image. These posts are shown to everyone, so that whoever sees the post can reach out to post owner. There isn't a built-in chattin option, so the posts will require a contact information from the creator. Once the pet is found and case if closed, the post owner can delete the post.
@@ -37,5 +37,8 @@ Alternatively, my email is: amacalptekin@gmail.com
 None
 
 ## Screenshot
-
-![Screenshot](asset/pawprint.png)
+![Landing](asset/pawPrintsSS.png)
+![LogIn](asset/pawprint.png)
+![LoggedIn](asset/loggedin_SS.png)
+![CreatePost](asset/create-posts.png)
+![DeletePosts](asset/deletable-posts.png)
